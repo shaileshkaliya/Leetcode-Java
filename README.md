@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0037-sudoku-solver) |
+| [0567-permutation-in-string](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0567-permutation-in-string) |
 # Backtracking
 |  |
 | ------- |
@@ -34,3 +35,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0037-sudoku-solver) |
+# Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0567-permutation-in-string) |
+# String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0567-permutation-in-string) |
+# Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0567-permutation-in-string) |
