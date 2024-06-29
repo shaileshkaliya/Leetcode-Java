@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0047-permutations-ii) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 ## Two Pointers
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
