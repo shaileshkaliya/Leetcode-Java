@@ -90,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0047-permutations-ii) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
