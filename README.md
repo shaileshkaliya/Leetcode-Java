@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0044-wildcard-matching) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 ## Sorting
 |  |
@@ -94,13 +95,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0072-edit-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0072-edit-distance) |
 ## Union Find
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
