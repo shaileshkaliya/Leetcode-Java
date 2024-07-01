@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0047-permutations-ii) |
+| [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 | [1293-three-consecutive-odds](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
@@ -111,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0044-wildcard-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
