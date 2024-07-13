@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1803-average-waiting-time) |
+| [2846-robot-collisions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2846-robot-collisions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2846-robot-collisions) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1720-crawler-log-folder) |
+| [2846-robot-collisions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
 | ------- |
