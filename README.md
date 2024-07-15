@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0726-number-of-atoms) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2846-robot-collisions) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0072-edit-distance) |
+| [0726-number-of-atoms](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
@@ -138,10 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0036-valid-sudoku) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
+| [0726-number-of-atoms](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
+| [0726-number-of-atoms](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2846-robot-collisions) |
