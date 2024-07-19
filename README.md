@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1207-delete-nodes-and-return-forest) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1207-delete-nodes-and-return-forest) |
