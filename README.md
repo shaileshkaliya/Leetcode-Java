@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1720-crawler-log-folder) |
@@ -116,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0726-number-of-atoms) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2846-robot-collisions) |
