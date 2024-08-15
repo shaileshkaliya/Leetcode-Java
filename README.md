@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
+| [0890-lemonade-change](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1207-delete-nodes-and-return-forest) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
+| [0890-lemonade-change](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Sorting
