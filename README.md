@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
+| [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
 | [2645-pass-the-pillow](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
