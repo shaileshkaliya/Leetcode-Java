@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0999-regions-cut-by-slashes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1484-linked-list-in-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0199-binary-tree-right-side-view) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0199-binary-tree-right-side-view) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
