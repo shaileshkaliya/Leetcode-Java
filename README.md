@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0386-lexicographical-numbers) |
 | [0999-regions-cut-by-slashes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
