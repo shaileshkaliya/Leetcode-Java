@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0072-edit-distance) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0564-find-the-closest-palindrome](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0564-find-the-closest-palindrome) |
 | [2645-pass-the-pillow](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2645-pass-the-pillow) |
