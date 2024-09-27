@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0890-lemonade-change) |
+| [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
 | [0999-regions-cut-by-slashes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1207-delete-nodes-and-return-forest) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
+| [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0564-find-the-closest-palindrome) |
+| [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
 | [2645-pass-the-pillow](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
