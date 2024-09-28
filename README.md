@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0018-4sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0859-design-circular-deque) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
