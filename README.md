@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
+| [0859-design-circular-deque](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0890-lemonade-change) |
 | [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
 | [0999-regions-cut-by-slashes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0999-regions-cut-by-slashes) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -303,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
