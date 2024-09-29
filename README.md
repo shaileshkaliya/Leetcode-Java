@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0726-number-of-atoms) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
