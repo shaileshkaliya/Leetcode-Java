@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 | [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0300-longest-increasing-subsequence) |
 ## Union Find
 |  |
 | ------- |
