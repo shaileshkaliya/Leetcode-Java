@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2846-robot-collisions) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0567-permutation-in-string) |
 | [0853-most-profit-assigning-work](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0853-most-profit-assigning-work) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2846-robot-collisions) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
 | ------- |
@@ -318,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
 |  |
 | ------- |
