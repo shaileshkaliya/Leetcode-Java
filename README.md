@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0564-find-the-closest-palindrome) |
 | [0912-random-pick-with-weight](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0912-random-pick-with-weight) |
 | [2645-pass-the-pillow](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2645-pass-the-pillow) |
+| [3199-distribute-candies-among-children-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/3199-distribute-candies-among-children-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -356,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0432-all-oone-data-structure) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
