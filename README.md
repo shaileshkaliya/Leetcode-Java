@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0287-find-the-duplicate-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0726-number-of-atoms) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0432-all-oone-data-structure) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0169-majority-element) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -373,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3199-distribute-candies-among-children-i](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/3199-distribute-candies-among-children-i) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
