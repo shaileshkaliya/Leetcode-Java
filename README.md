@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0999-regions-cut-by-slashes](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shaileshkaliya/Leetcode-Java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
